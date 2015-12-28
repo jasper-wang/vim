@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/wangyingying/Documents/SVN/PAMIT_H5/www'
+let g:netrw_dirhist_2='/Users/wangyingying/Documents/SVN/PAMIT_H5/www/js'
+let g:netrw_dirhist_3='/Users/wangyingying/Documents/SVN/PAMIT_H5/www'
